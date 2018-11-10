@@ -68,5 +68,7 @@ with open('dataset.csv', 'a', newline='',  encoding='utf-8') as csvFile:
 
 csvFile.close()
 
+buuuuuug!
+
 driver.quit()
 
