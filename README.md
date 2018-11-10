@@ -13,4 +13,4 @@ pip install selenium
 pip install lxml
 pip install bs4
 ```
-Tambien se deberá descargar el WebDriver de Chrome en el siguiente link https://sites.google.com/a/chromium.org/chromedriver/downloads y descomprimirlo en C:/Windows
+Tambien se deberá descargar el WebDriver de Chrome en el siguiente link [Chrome Webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) y descomprimirlo en C:/Windows
