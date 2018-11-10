@@ -14,3 +14,8 @@ pip install lxml
 pip install bs4
 ```
 Tambien se deberá descargar el WebDriver de Chrome en el siguiente link [Chrome Webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) y descomprimirlo en C:/Windows
+
+## Contenido
+* [csv/dataset.csv](csv/dataset.csv) Contiene el dataset extraido de la web (en este caso entre las fechas 04/03/2017 y 01/02/2018)
+* [doc/practica.pdf](doc/practica.pdf) Contiene las respuestas al enunciado de la práctica
+* [src](src) Contiene el codigo fuente en Python
